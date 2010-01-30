@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /Users/al/git_workspace/import-Twitter-following-to-Twitter-list
+/usr/local/bin/ruby -rubygems twitter_following_to_list.rb
